@@ -45,7 +45,7 @@ $numero = 5;
 
   <?php if ($numero < 1 || $numero > 12): ?>
 
-    <p class="error">Numero invalid nomes entre 1 i 12</p>
+    <p class="error">Numero invalid des de 1 a 12</p>
 
   <?php else: ?>
 
